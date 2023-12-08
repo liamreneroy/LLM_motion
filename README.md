@@ -1,5 +1,5 @@
 # RL_audio
-Codebase for audio communication RL bandit algorithm
+Codebase for expressive motion RL bandit implimentation with GPT initialization
 
 
 ## Packages to Install:
@@ -25,8 +25,8 @@ nbconvert-webpdf
 
 
 ## Find the Notebook
-The notebok can then be found at:  
-.../RL_audio/notebooks/study_notebook_V4.ipynb  
+The notebook can then be found at:  
+.../RL_audio/notebooks/study_notebook_V1.ipynb  
 
 
 ## Owner: 
