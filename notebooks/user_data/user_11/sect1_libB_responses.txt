@@ -1,0 +1,12 @@
+01 - current_state_index 
+01 - probed_state_index 
+09 - probed_confidence 
+
+02 - current_state_index 
+02 - probed_state_index 
+08 - probed_confidence 
+
+00 - current_state_index 
+00 - probed_state_index 
+10 - probed_confidence 
+
