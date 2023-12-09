@@ -3,8 +3,8 @@ import os
 import shutil
 import time
 import numpy as np
-from scripts import audio_control
-from scripts import ucb1_algorithm as ucb1
+from notebooks.scripts import motion_control as audio_ctrl
+from notebooks.scripts import mab_algorithm as ucb1
 
 import sys
 from termcolor import colored, cprint
@@ -76,6 +76,33 @@ def get_user_ID(parent_dir, num_of_states):
 	return user_ID_str
 
 
+
+
+
+def play_final_sound(sound_obj_array, lib_str, sect_str, user_ID_str, given_state_idx, states_array, state_descriptions, param_disc, load_file="pilotset", seed=55, mixer_volume=0.70):
+	
+	uncertainty_array = np.zeros_like(sound_obj_array)
+	
+	given_state_idx = given_state_idx
+	
+	print(f"\nUsing Array Path: {load_file}\n")
+
+	cprint("------------------------------------------------------------------------\n", "light_yellow", attrs=["bold"])
+	cprint(f"This is the state:", "black", "on_yellow", attrs=["bold"])
+	cprint(f"{state_descriptions[given_state_idx]}\n", "black", "on_yellow", attrs=["bold"])
+	cprint("------------------------------------------------------------------------", "light_yellow", attrs=["bold"])
+		
+	# At each index of the state array, add the state object (each object has a unique index, description, and Q-table)
+	states_array[given_state_idx] = ucb1.robot_state(given_state_idx, state_descriptions[given_state_idx], param_disc, load_file, user_ID_str)
+
+	# Select the highest valued action in that states Q-Table - assign to params 1,2,3
+	param_1_idx, param_2_idx, param_3_idx = states_array[given_state_idx].action_selection(uncertainty_array)
+
+	# Now lets play this action for the user and get their reponse 
+	sound_obj_array[param_1_idx, param_2_idx, param_3_idx].play_sound(mixer_volume)
+
+		  
+		  
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
