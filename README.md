@@ -1,10 +1,10 @@
-# RL_audio
-Codebase for expressive motion RL bandit implimentation with GPT initialization
+# LLM_motion
+Codebase for generating expressive robot motion with GPT-4
 
 
 ## Packages to Install:
 pygame   (see this webpage ~ https://www.pygame.org/wiki/GettingStarted)  
-jupyterlab, numpy, termcolor, openpyxl, nbconvert-webpdf  
+jupyterlab, numpy, termcolor, openpyxl, nbconvert-webpdf, openai, wandb  
 
 
 Either use:    
@@ -21,13 +21,13 @@ numpy
 termcolor  
 openpyxl  
 nbconvert-webpdf              
-
+openai
+wandb  
 
 
 ## Find the Notebook
 The notebook can then be found at:  
-.../RL_audio/notebooks/study_notebook_V1.ipynb  
-
+.../LLM_motion/scripts/llm_to_motion.ipynb  
 
 ## Owner: 
 Liam Roy
