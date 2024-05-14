@@ -1,2 +1,5 @@
 keys.txt
 /archive
+data/part1_collection/llm_generated_data_hidden.xlsx
+data/part1_collection/human_generated_data_hidden.xlsx
+data/part2_classification/final_results/final_hidden.xlsx
