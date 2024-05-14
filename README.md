@@ -8,7 +8,7 @@ TBA
 ## Main Files
 This codebase uses the framework as described in our submitted paper. In this implimentation, the GPT-4 model is used. The main files in this repo are:
 
-### The Jupyter notebook used to generate the prompt abd query the LLM:
+### The Jupyter notebook used to generate the prompt and query the LLM:
 https://github.com/liamreneroy/LLM_motion/blob/main/scripts/llm_to_motion.ipynb
 
 ### The prompt structure used to query the LLM:
