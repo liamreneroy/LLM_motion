@@ -24,7 +24,7 @@ https://github.com/liamreneroy/LLM_motion/blob/main/media/task_description.txt
 https://github.com/liamreneroy/LLM_motion/blob/main/stats/
 
 ### All the raw data collected throughout our study is here:
-https://github.com/liamreneroy/RL_audio/blob/main/data/
+https://github.com/liamreneroy/LLM_motion/blob/main/data/
 
 
 ## Packages to Install:
