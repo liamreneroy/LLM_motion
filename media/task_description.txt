@@ -1,0 +1,22 @@
+On a bright sunny day, you find yourself in a strawberry field, tasked with picking ripe strawberries. It's quite hot out, and you hope to complete this task efficiently so you can sit in the shade and enjoy the fruits of your labour. 
+
+Your companion for this task is a robot dog named Calcifer. Calcifer is a silent robot who is only able to communicate using its body language. Calcifer is autonomous, meaning that he can venture off to search for and identify ripe strawberries. Though unable to physically pick them, he can signal to you when he's found ripe fruit ready to be picked.
+
+Calcifers purpose is to boost your efficiency in the strawberry-picking task by providing valuable guidance and alerts.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While collaborating on this strawberry-picking task, Calcifer can have many different internal states:
+
+Waiting for Input: Calcifer is in standby mode waiting for a command from the user
+
+Analyzing Object: Calcifer is analyzing a target object in front of it on the ground
+
+Found Object: Calcifer has found a target object in front of it on the ground
+
+Needs Help: Calcifer is experiencing an error and needs help from the user
+
+Confused: Calcifer is confused and unsure what to do

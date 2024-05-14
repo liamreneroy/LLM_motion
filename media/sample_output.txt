@@ -1,0 +1,1318 @@
+Your output from GPT4 is: 
+
+
+Robot State: confused
+
+~~~~~~~~~~~~ Iteration 00
+[01, A], (Body Tilt, left)
+[02, A], (Body Lean, backwards)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 01
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 02
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 03
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 04
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[06, C], (Pose Duration, long)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 06C
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 05
+[01, B], (Body Tilt, neutral)
+[03, A], (Body Turn, left)
+[03, C], (Body Turn, right)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky)
+[06, B], (Pose Duration, medium) 
+
+
+Appending: 01B
+Appending: 03A
+Appending: 03C
+Appending: 07A
+Appending: 08B
+Appending: 06B
+
+
+~~~~~~~~~~~~ Iteration 06
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 07
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 08
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, C], (Body Turn, right)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03C
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 09
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 10
+[01, B], (Body Tilt, neutral)
+[02, A], (Body Lean, backwards)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[06, C], (Pose Duration, long)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01B
+Appending: 02A
+Appending: 03C
+Appending: 04B
+Appending: 06C
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 11
+[01, A], (Body Tilt, left)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[06, B], (Pose Duration, medium)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03C
+Appending: 04B
+Appending: 06B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 12
+[01, B], (Body Tilt, neutral)
+[02, A], (Body Lean, backwards)
+[03, B], (Body Turn, neutral)
+[04, C], (Body Height, high)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01B
+Appending: 02A
+Appending: 03B
+Appending: 04C
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 13
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 14
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 15
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 16
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 17
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 18
+[01, A], (Body Tilt, left)
+[02, A], (Body Lean, backwards)
+[03, C], (Body Turn, right)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02A
+Appending: 03C
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 19
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 20
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, C], (Body Turn, right)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03C
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 21
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 22
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 23
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 24
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 25
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 26
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, A], (Body Height, low)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04A
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 27
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 28
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 29
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 30
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 31
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 32
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 33
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 34
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 35
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 36
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 37
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 38
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 39
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 40
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03C
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 41
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 42
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 43
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 44
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 45
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 46
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, A], (Body Turn, left)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 47
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[06, C], (Pose Duration, long)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 06C
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 48
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 49
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 50
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 51
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 52
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 53
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 54
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 55
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 56
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 57
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 58
+[01, A], (Body Tilt, left)
+[02, A], (Body Lean, backwards)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02A
+Appending: 03C
+Appending: 04B
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 59
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 60
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 61
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 62
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 63
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 64
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 65
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 66
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03C
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 67
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[06, B], (Pose Duration, medium)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 06B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 68
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 69
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 70
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 71
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 72
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 73
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 74
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 75
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 76
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 77
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B
+
+
+~~~~~~~~~~~~ Iteration 78
+[01, A], (Body Tilt, left)
+[02, B], (Body Lean, neutral)
+[03, C], (Body Turn, right)
+[04, B], (Body Height, neutral)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 02B
+Appending: 03C
+Appending: 04B
+Appending: 07A
+Appending: 08B
+
+~~~~~~~~~~~~ Iteration 79
+[01, A], (Body Tilt, left)
+[03, B], (Body Turn, neutral)
+[04, B], (Body Height, neutral)
+[05, A], (Body Direction, user)
+[07, A], (Motion Velocity, slow)
+[08, B], (Motion Smoothness, shaky) 
+
+
+Appending: 01A
+Appending: 03B
+Appending: 04B
+Appending: 05A
+Appending: 07A
+Appending: 08B

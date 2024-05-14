@@ -1,0 +1,41 @@
+Your prompt for GPT4 is: 
+
+You are an expert roboticist and understand how to design communicative expressions for human-robot interaction.
+
+Consider a scenario where you are collaborating with a dog-shaped quadruped robot to locate and pick strawberries in a strawberry patch. 
+
+This dog-shaped quadruped robot is in a state 'confused'. In this state, the robot is confused and unsure what to do.
+
+This robot uses its body pose to express its internal state. Below is a list of eight (8) motion parameters, complete with a description and a value range for each of those parameters. These parameters govern the characteristics of the robot's pose. The data in this list is in the format: [Parameter Name, Parameter Description, (Value Range)]
+
+Parameter 01: [Body Tilt, Controls the left-right tilt angle of the robot's torso. If set to ‘left’ robot’s torso tilts to the left. If set to ‘neutral’ robot’s torso remains unchanged. If set to ‘right’ robot’s torso tilts to the right., (left, neutral, right)]
+
+Parameter 05: [Body Direction, Controls whether the robot faces the user or a relevant object in the scene. If set to ‘user’ robot faces the user. If set to ‘object’ robot faces the relevant object (the strawberry) in the scene,(user, object)]
+
+Parameter 03: [Body Turn, Controls the left-right turn angle of the robot's torso. If set to ‘left’ robot’s torso turns to the left. If set to ‘neutral’ robot’s torso remains unchanged. If set to ‘right’ robot’s torso turns to the right.,(left, neutral, right)]
+
+Parameter 07: [Motion Velocity, Controls the velocity of the robot as it moves to a given pose. If set to ‘slow’ robot moves at a slow speed. If set to ‘medium’ robot moves at a normal speed. If set to ‘fast’ robot moves at a high speed. ,(slow, medium, fast)]
+
+Parameter 02: [Body Lean, Controls the forwards-backwards lean angle of the robot's torso. If set to ‘backwards’ robot’s torso leans backwards. If set to ‘neutral’ robot’s torso remains unchanged. If set to ‘forwards’ robot’s torso leans forwards.,(backwards, neutral, forwards)]
+
+Parameter 08: [Motion Smoothness, Controls whether the robot's motion is smooth or shaky. If set to ‘smooth’ the robot’s motion is smooth without any disturbances. If set to ‘shaky’ the robot’s motion is shaky looks like it is trembling.,(smooth, shaky)]
+
+Parameter 04: [Body Height , Controls the height of the robot's torso. If set to ‘low’ robot lowers it’s body to the ground. If set to ‘neutral’ robot dog maintains a neutral body height. If set to ‘high’ robot dog raises it’s torso higher.,(low, neutral, high)]
+
+Parameter 06: [Pose Duration, Controls the duration in which the robot holds its pose. If set to ‘short’ robot holds pose for a short length duration of 1 second. If set to ‘medium’ robot holds pose for a medium length duration of 4 seconds. If set to ‘long’ robot holds pose for a long length duration of 8 seconds.,(short, medium, long)]
+
+
+Your Task:
+From the available eight (8) motion parameters, please select at minimum three and a maximum of six of the most relevant parameters to express the robot state 'confused'. Please include reasonable values within the provided value ranges for each selected motion parameter. Please only select those that you believe are most relevant. Please include no additional text or explanation.
+
+Your response must keep the selected parameters in numerical order, and be in this exact format:
+
+[##, Z], (Parameter Name, Value)
+[##, Z], (Parameter Name, Value)
+...
+[##, Z], (Parameter Name, Value)
+
+## = parameter number (e.g. 04)
+Z = value option, either A, B, or C. Some parameters only have two options (A, B) instead of 3 options (A, B, C) 
+Parameter Name = name of the selected parameter
+Value = value selected for that parameter
