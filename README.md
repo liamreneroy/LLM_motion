@@ -11,14 +11,20 @@ This codebase uses the framework as described in our submitted paper. In this im
 ### The Jupyter notebook used to generate the prompt and query the LLM:
 https://github.com/liamreneroy/LLM_motion/blob/main/scripts/llm_to_motion.ipynb
 
-### The prompt structure used to query the LLM:
+### Prompt structure used to query the LLM:
 https://github.com/liamreneroy/LLM_motion/blob/main/media/sample_prompt.txt
 
 ### Sample output from the LLM based on the prompt:
 https://github.com/liamreneroy/LLM_motion/blob/main/media/sample_output.txt
 
-### The task and robot description presented to users in our user study:
-https://github.com/liamreneroy/LLM_motion/blob/main/media/task_description.txt
+### User data collection survey 01 description:
+https://github.com/liamreneroy/LLM_motion/blob/main/media/survey_01_data_collection/survey01_user_data_collection_descript.txt
+
+### Classification accuracy survey 02 description:
+https://github.com/liamreneroy/LLM_motion/blob/main/media/survey_02_classifcation_accuracy/survey02_classification_accuracy_descript.txt
+
+### Task and robot description presented to users both surveys:
+https://github.com/liamreneroy/LLM_motion/blob/main/media/survey_01_data_collection/task_description.txt
 
 ### The statistical analyses for our two hypotheses (H1, H2) are here:
 https://github.com/liamreneroy/LLM_motion/blob/main/stats/

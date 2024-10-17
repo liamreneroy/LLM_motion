@@ -1,0 +1,100 @@
+The second survey (State Classification Accuracy Survey) introduces
+participants to an expressive robot, Calcifer, and its five possible 
+states. Participants are shown 15 videos of Calcifer demonstrating 
+poses related to the strawberry-picking task. For each video, they 
+are asked to choose one of the five states or select "none of the above
+
+
+'''
+
+Meet Calcifer, your robot dog buddy!
+
+Calcifer is a quiet robot that is only able to communicate 
+with its body language. Calcifer's job is to help you do 
+things better by giving useful tips and warnings. 
+
+{PHOTO OF UNITREE GO1 ROBOT}
+(see intro.png within this folder)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{PHOTO OF UNITREE GO1 IN FRONT OF STRAWBERRY}
+(see outdoor_strawberry.png within this folder)
+
+{DESCRIPTION OF SAMPLE INTERACTION SCENARIO}
+(see task_description.txt within this folder)
+
+While collaborating on this strawberry-picking task, 
+Calcifer can have many different internal states:
+
+Waiting for Input: Calcifer is in standby mode 
+waiting for a command from the user
+
+Analyzing Object: Calcifer is analyzing a target 
+object in front of it on the ground
+
+Found Object: Calcifer has found a target object 
+in front of it on the ground
+
+Needs Help: Calcifer is experiencing an error 
+and needs help from the user
+
+Confused: Calcifer is confused and unsure what to do
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+On the following pages, you will be asked to watch 15 short 
+videos. In each of these videos, Calcifer will execute a pose 
+to communicate one of the five states:
+
+Waiting for Input: Calcifer is in standby mode 
+waiting for a command from the user
+
+Analyzing Object: Calcifer is analyzing a target 
+object in front of it on the ground
+
+Found Object: Calcifer has found a target object 
+in front of it on the ground
+
+Needs Help: Calcifer is experiencing an error 
+and needs help from the user
+
+Confused: Calcifer is confused and unsure what to do
+
+
+YOUR TASK:
+After each video, you will be asked to select which 
+robot state you think Calcifer is communicating. You 
+will also be asked to gauge your confidence in your 
+response on a scale from 1 to 5.
+
+There is no time limit, you can re-watch the videos 
+as many times as you'd like before making your decision. 
+You can also backtrack to return to video questions on 
+previous pages if you wish to change any of your responses.
+
+{EXAMPLE VISUAL OF PARTICIPANT SELECTING STATE}
+(see state_select.png within this folder)
+
+{EXAMPLE VISUAL OF PARTICIPANT SELECTING CONFIDENCE}
+(see confidence.png within this folder)   
+
+Please continue to the next page.
+ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Participants were then presented with 15 videos.
+(see https://tinyurl.com/final-poses)
+
+'''
