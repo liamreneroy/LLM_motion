@@ -32,6 +32,12 @@ https://github.com/liamreneroy/LLM_motion/blob/main/stats/
 ### All the raw data collected throughout our study is here:
 https://github.com/liamreneroy/LLM_motion/blob/main/data/
 
+### Youtube Playlist Links:
+Motion Parameters:  https://tinyurl.com/eight-motion-parameters
+Final Poses:        https://tinyurl.com/final-poses
+
+
+
 
 ## Packages to Install:
 pygame   (see this webpage ~ https://www.pygame.org/wiki/GettingStarted)  
