@@ -1,0 +1,91 @@
+The first survey (User Data Collection Survey) guides participants 
+through a workflow that introduces the concept of expressive robots 
+and their functional states. It explains the example strawberry-picking 
+task and asks participants to list between 4 and 10 possible 
+functional robot states.
+
+
+'''
+
+Meet Calcifer, your robot dog buddy!
+
+Calcifer is a quiet robot that is only able to communicate 
+with its body language. Calcifer's job is to help you do 
+things better by giving useful tips and warnings. 
+
+{PHOTO OF UNITREE GO1 ROBOT}
+(see intro.png within this folder)
+
+Calcifer has many different task-dependant states. 
+This means that Calcifer's states are related to the 
+task you're working on together.
+
+Let's say you're following Calcifer towards a goal. 
+In this scenario, Calcifer's states might be:
+
+Going towards the goal.
+Feeling a bit lost...
+Yay, we reached the goal!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Calcifer needs to let you know what state its in. 
+Calcifer uses it's body language and motion to express its state.
+
+{PHOTO OF UNITREE GO1 ROBOT EXECUTING THREE POSES}
+(see poses.png within this folder)
+
+A parameter is an aspect of the robot that we can adjust.
+
+Calcifer can modify eight (8) different motion parameters to 
+produce different poses and gestures. Five of these parameters 
+relate to Calcifer's body position, and three relate to the motion 
+Calcifer executes to reach a given pose.
+
+{VIDEO OF UNITREE GO1 ROBOT DEMONSTRATING 8 AVAILABLE MOTION PARAMETERS}
+(see https://tinyurl.com/eight-motion-parameters)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{PHOTO OF UNITREE GO1 IN FRONT OF STRAWBERRY}
+(see outdoor_strawberry.png within this folder)
+
+{DESCRIPTION OF SAMPLE INTERACTION SCENARIO}
+(see task_description.txt within this folder)
+
+Imagine you are in the scenario described above...
+
+List up to ten of Calcifer's possible states, along with a short 
+description for each. You must list a minimum of at least 4 states. 
+
+Example responses:
+"Progressing - Calcifer is searching for strawberries"
+"Confused - Calcifer is unsure where to go or what to do"
+"Found a fruit - Calcifer found a strawberry"
+
+State 01: [input_text_box]
+State 02: [input_text_box]
+State 03: [input_text_box]
+...
+State 10: [input_text_box]
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~   PAGE BREAK   ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+For each state listed, participants were asked to select 
+relevant motion parameters and associated values, based on the 
+provided list of 8 parameters shown in the video. 
+(see selecting_parameters.png within this folder)
+(see https://tinyurl.com/eight-motion-parameters)
+
+'''
