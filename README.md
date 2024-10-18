@@ -9,7 +9,7 @@ TBA
 This codebase uses the framework as described in our submitted paper. In this implimentation, the GPT-4 model is used. The main files in this repo are:
 
 ### Jupyter notebook used to generate the prompt and query the LLM 
-* Start of notebook includes an explanation of the OpenAI API hyper-parameters used in this work
+(Start of this notebook includes an explanation of the OpenAI API hyper-parameters used in this work)
 https://github.com/liamreneroy/LLM_motion/blob/main/scripts/llm_to_motion.ipynb
 
 ### Prompt structure used to query the LLM:
