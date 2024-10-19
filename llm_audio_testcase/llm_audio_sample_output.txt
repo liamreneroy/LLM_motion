@@ -1,0 +1,93 @@
+************************************
+********* ROBOT STATE : stuck
+************************************
+
+~~~~~~~~~~~~ Iteration 00
+[01, A], (Beats Per Minute, slow)
+[02, A], (Beats Per Loop, low)
+[03, A], (Pitch Bend, downward) 
+
+
+line: [01, A], (Beats Per Minute, slow)
+Appending: 01A
+line: [02, A], (Beats Per Loop, low)
+Appending: 02A
+line: [03, A], (Pitch Bend, downward)
+Appending: 03A
+
+
+selected_param_value_pairs
+Length: 3
+['01A', '02A', '03A']
+~~~~~~~~~~~~ Iteration 01
+[01, A], (Beats Per Minute, slow)
+[02, C], (Beats Per Loop, high)
+[03, A], (Pitch Bend, downward) 
+
+
+line: [01, A], (Beats Per Minute, slow)
+Appending: 01A
+line: [02, C], (Beats Per Loop, high)
+Appending: 02C
+line: [03, A], (Pitch Bend, downward)
+Appending: 03A
+
+
+selected_param_value_pairs
+Length: 6
+['01A', '02A', '03A', '01A', '02C', '03A']
+~~~~~~~~~~~~ Iteration 02
+[01, A], (Beats Per Minute, slow)  
+[02, A], (Beats Per Loop, low)  
+[03, A], (Pitch Bend, downward) 
+
+
+line: [01, A], (Beats Per Minute, slow)  
+Appending: 01A
+line: [02, A], (Beats Per Loop, low)  
+Appending: 02A
+line: [03, A], (Pitch Bend, downward)
+Appending: 03A
+
+
+selected_param_value_pairs
+Length: 9
+['01A', '02A', '03A', '01A', '02C', '03A', '01A', '02A', '03A']
+~~~~~~~~~~~~ Iteration 03
+[01, A], (Beats Per Minute, slow)
+[02, A], (Beats Per Loop, low)
+[03, A], (Pitch Bend, downward) 
+
+
+line: [01, A], (Beats Per Minute, slow)
+Appending: 01A
+line: [02, A], (Beats Per Loop, low)
+Appending: 02A
+line: [03, A], (Pitch Bend, downward)
+Appending: 03A
+
+
+selected_param_value_pairs
+Length: 12
+['01A', '02A', '03A', '01A', '02C', '03A', '01A', '02A', '03A', '01A', '02A', '03A']
+~~~~~~~~~~~~ Iteration 04
+[01, A], (Beats Per Minute, slow)
+[02, A], (Beats Per Loop, low)
+[03, A], (Pitch Bend, downward) 
+
+
+line: [01, A], (Beats Per Minute, slow)
+Appending: 01A
+line: [02, A], (Beats Per Loop, low)
+Appending: 02A
+line: [03, A], (Pitch Bend, downward)
+Appending: 03A
+
+
+selected_param_value_pairs
+Length: 15
+['01A', '02A', '03A', '01A', '02C', '03A', '01A', '02A', '03A', '01A', '02A', '03A', '01A', '02A', '03A']
+
+...
+...
+... 

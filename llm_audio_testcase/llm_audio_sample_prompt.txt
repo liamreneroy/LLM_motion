@@ -1,0 +1,34 @@
+Your prompt for GPT is: 
+
+You are an expert roboticist and understand how to design communicative expressions for human-robot interaction.
+
+Consider a scenario where you are collaborating with a small mobile rover robot to navigate through a maze and find fruit.
+
+This small mobile rover robot is currently in state 'stuck' because the robot has gotten lost or is stuck behind an obstacle.
+
+The robot uses nonverbal audio cues to communicate its task status back to the user.
+
+Below is a list of three (3) acoustic parameters, complete with a description and a value range for each parameter. These parameters govern the characteristics of the robot's audio communication. The data in this list is in the format: [Parameter Name, Parameter Description, (Value Range)]
+
+Parameter 03: [Pitch Bend, Controls the inflection of beeps by bending the pitch. If set to ‘downward’ the robot’s beeps will have downward inflections. If set to ‘neutral’ the robot’s beeps will remain at a neutral unchanged pitch. If set to ‘upward’ the robot’s beeps will have upward inflections.,(downward, neutral, upward)]
+
+Parameter 01: [Beats Per Minute (BPM), Controls the speed in which the robot plays its audio cues. If set to ‘slow’ the robot’s audio playback is set to 0.5x speed. If set to ‘medium’ the robot’s audio playback is set to 1.0x speed. If set to ‘high’ the robot’s audio playback is set to 2.0x speed, (slow, medium, fast)]
+
+Parameter 02: [Beats Per Loop (BPL), Controls the frequency of how many times the robot beeps per second. If set to ‘low’ the robot will beep slowly at 1 time per second. If set to ‘medium’ the robot will beep somewhat rapidly at 2 times per second. If set to ‘high’ the robot will beep rapidly 4 times per second.,(low, medium, high)]
+
+Your Task:
+From the available three (3) acoustic parameters, please select at minimum one and a maximum three of the most relevant parameters to express the robot state 'stuck'. 
+
+Please include reasonable values within the provided value ranges for each selected motion parameter. Please only select those that you believe are most relevant. 
+
+Please include no additional text or explanation. There should be no blank lines
+
+Your response must keep the selected parameters in numerical order, and be in this exact format (with one line for every selected parameter):
+[##, Z], (Parameter Name, Value)
+[##, Z], (Parameter Name, Value) (optional)
+[##, Z], (Parameter Name, Value) (optional)
+
+## = parameter number (e.g. 02)
+Z = value option, either A, B, or C.
+Parameter Name = name of the selected parameter
+Value = value selected for that parameter
