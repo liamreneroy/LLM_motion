@@ -5,3 +5,5 @@ data/part1_collection/human_generated_data_hidden.xlsx
 data/part2_classification/final_results/final_hidden.xlsx
 llm_audio_testcase/plots/originals
 llm_audio_testcase/stats/kl_leibler_divergence_weighted.ipynb
+scripts/llm_to_motion_updated_go1.ipynb
+scripts/llm_to_motion_updated_jackal.ipynb
