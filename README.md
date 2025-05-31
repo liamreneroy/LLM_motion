@@ -1,5 +1,5 @@
 # LLM_motion
-Codebase for generating expressive robot motion with a large language model (LLM aka GPT-4)
+Codebase for generating expressive robot motion with a large language model (LLM) i.e. GPT-4o
 
 ### Link to Research Paper
 https://ieeexplore.ieee.org/document/10909198
