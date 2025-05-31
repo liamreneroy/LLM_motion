@@ -2,7 +2,7 @@
 Codebase for generating expressive robot motion with a large language model (LLM aka GPT-4)
 
 ### Link to Research Paper
-TBA
+https://ieeexplore.ieee.org/document/10909198
 
 
 ## Main Files and User Study

@@ -1,8 +1,8 @@
 keys.txt
 /archive
-data/part1_collection/llm_generated_data_hidden.xlsx
-data/part1_collection/human_generated_data_hidden.xlsx
-data/part2_classification/final_results/final_hidden.xlsx
+data/part1_collection/archive
+data/part2_classification/archive
+data/study_04_data
 llm_audio_testcase/plots/originals
 llm_audio_testcase/stats/kl_leibler_divergence_weighted.ipynb
 scripts/llm_to_motion_updated_go1.ipynb
