@@ -5,5 +5,5 @@ data/part2_classification/archive
 data/study_04_data
 llm_audio_testcase/plots/originals
 llm_audio_testcase/stats/kl_leibler_divergence_weighted.ipynb
-scripts/llm_to_motion_updated_go1.ipynb
-scripts/llm_to_motion_updated_jackal.ipynb
+scripts/llm_to_motion_updated_go1_audio.ipynb
+scripts/llm_to_motion_updated_go1_motion.ipynb
